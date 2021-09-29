@@ -7,7 +7,8 @@ Projeto de MC536 - Unicamp - 2s2021
 * `Enrico Piovesana Fernandes` - `RA: 233895`
 
 ## Resumo do Projeto
-> O projeto busca construir um dataset compreensivo e expansivo contendo informações sobre jogadores titulados e suas partidas jogadas em plataformas onlines, contendo informações tanto sobre os jogadores e sobre o desenvolvimento de suas partidas. O dataset possuí uma ênfase em abundância de informação e dados, providência uma plataforma ideal para analíses de dados e de aprendizado de máquina.
+> O projeto busca construir um dataset compreensivo e expansivo contendo informações sobre jogadores titulados e suas partidas jogadas em plataformas onlines, contendo informações tanto sobre os jogadores e sobre o desenvolvimento de suas partidas.
+> O dataset possuí uma ênfase em abundância de informação e dados, providência uma plataforma ideal para analíses de dados e de aprendizado de máquina.
 
 ## Slides da Apresentação
 > ![Slides](slides/README.md)
