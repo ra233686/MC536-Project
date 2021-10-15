@@ -1,17 +1,9 @@
-# Modelo para Apresentação do Lab08 - Modelo Lógico e Análise de Dados em Grafos
+# Modelo Lógico e Análise de Dados em Grafos
 
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-│
-└── images     <- arquivos de imagem usados na tarefa
-~~~
-
-# Equipe `<nome da equipe>` - `<sigla da equipe>`
-* `<nome completo>` - `<RA>`
-* `<nome completo>` - `<RA>`
-* `<nome completo>` - `<RA>`
+# Equipe `BispOSet` - `BOSS`
+* `Breno Nunes Tavares` - `RA: 232238`
+* `Eduardo Carvalheira Teixeira de Aguiar` - `RA: 233686`
+* `Enrico Piovesana Fernandes` - `RA: 233895`
 
 ## Modelo Lógico Combinado do Banco de Dados de Grafos
 > Coloque aqui o modelo ou modelos que serão usados pela equipe combinando os individuais, conforme especificação.
