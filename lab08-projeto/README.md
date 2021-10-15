@@ -9,7 +9,7 @@
 > Coloque aqui o modelo ou modelos que serão usados pela equipe combinando os individuais, conforme especificação.
 > Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
 >
-> ![Modelo Lógico de Grafos](../modelo-relacional.png)
+> ![Modelo Lógico de Grafos](../images/modelo-relacional.png)
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
