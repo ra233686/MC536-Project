@@ -22,9 +22,9 @@
 >   * Isso é um problema de vulnerabilidade, pois embora seja possível remover um jogador específico, todos os jogos em que ele participou ainda estariam presentes no banco de dados, e quando for desejado recuperar um jogo específico em que um jogador removido participou no passado, seria necessário analisar todos os jogos já jogados para encontrá-los, causando um impacto grande na eficiência do banco de dados.
 
 ### Pergunta/Análise 2
-> * Pergunta 2
+> * Baseado nos jogos entre os jogadores presentes no banco de dados, seria possível prever um resultado de um confronto novo que acontecerá entre dois jogadores?
 >   
->   * Explicação sucinta da análise que será feita no grafo para atender à pergunta. Deve ser indicado explicitamente em qual das modalidades a análise se encaixa: centralidade; vulnerabilidade; comunidade/modularidade; motifs; predição de links.
+>   * Isso seria o caso de predição de link, pois cada jogador se liga a outro quando é realizada uma partida entre eles, assim, com o histórico de partidas entre diversos jogadores poderiamos prever novas possíveis ligações presentes no nosso banco de dados, utilizando-se do rating do jogador, de sua taxa de vitoria, entre outros. Logo, conseguindo assim, prever ligações e possivelmente, com análise dos dados de cada jogador, prever o resultado da partida.
 
 ### Pergunta/Análise 3
 > * Pergunta 3
