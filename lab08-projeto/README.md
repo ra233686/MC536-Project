@@ -27,6 +27,6 @@
 >   * Isso seria o caso de predição de link, pois cada jogador se liga a outro quando é realizada uma partida entre eles, assim, com o histórico de partidas entre diversos jogadores poderiamos prever novas possíveis ligações presentes no nosso banco de dados, utilizando-se do rating do jogador, de sua taxa de vitoria, entre outros. Logo, conseguindo assim, prever ligações e possivelmente, com análise dos dados de cada jogador, prever o resultado da partida.
 
 ### Pergunta/Análise 3
-> * Pergunta 3
+> * A quantidade de jogos que um jogador tem em um campeonato tem relação com a sua colocação final no torneio?
 >   
->   * Explicação sucinta da análise que será feita no grafo para atender à pergunta. Deve ser indicado explicitamente em qual das modalidades a análise se encaixa: centralidade; vulnerabilidade; comunidade/modularidade; motifs; predição de links.
+>   * A pergunta acima está diretamente relacionada com o conceito de centralidade pois quanto mais jogos um jogador tem mais ligações entre ele e "Games" existirão, aumentando o seu grau de centralidade. Desse modo, é possível realizar uma análise que relaciona o grau do jogador com sua colocação final no torneio, visando responder a pergunta se uma maior quantidade de jogos implica necessariamente em uma melhor colocação.
