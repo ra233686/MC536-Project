@@ -10,7 +10,7 @@
 > Utilize este [modelo de base](https://docs.google.com/presentation/d/10RN7bDKUka_Ro2_41WyEE76Wxm4AioiJOrsh6BRY3Kk/edit?usp=sharing) para construir o seu.
 >
 > Segue o modelo criado pela combinação de todos os modelos:
-> ![Modelo Lógico de Grafos](../images/modelo-relacional.png)
+> ![Modelo Lógico de Grafos](/images/modelo-relacional.png)
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
